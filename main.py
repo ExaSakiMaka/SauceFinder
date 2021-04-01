@@ -1,3 +1,4 @@
+#made by https://github.com/ExaSakiMaka
 import webbrowser
 from tkinter import * 
 
