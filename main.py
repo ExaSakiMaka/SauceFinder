@@ -41,7 +41,7 @@ fenetre.resizable(False, False)
 label = Label(fenetre, text="What are those numbers boy ?")
 label.pack(pady = 30)
 
-#place to entre the numbers
+#place to enter the numbers
 E1 = Entry(fenetre, bd =5)
 E1.pack()
 
